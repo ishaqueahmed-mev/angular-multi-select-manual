@@ -1,0 +1,16 @@
+.selected {
+    min-height: 50px;
+    border: 1px solid gainsboro;
+    width: 500px;
+    display: block;
+    position: relative;
+}
+.list-group {
+    overflow: scroll;
+    border: 1px solid gainsboro;
+    max-height: 500px;
+}
+.list-group-item {
+    border: none;
+    cursor: pointer;
+}
